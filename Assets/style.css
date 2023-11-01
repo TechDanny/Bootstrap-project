@@ -4,9 +4,13 @@ section {
 .nav-item{
     margin-left: 10px;
 }
+
 #reviews {
     background-color: #ced4da;
 }
 #query {
     height: 140px;
+}
+body {
+    padding-top: 70px;
 }
